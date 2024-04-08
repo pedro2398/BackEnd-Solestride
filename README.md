@@ -18,6 +18,9 @@ Api Java utilizando, Spring Boot e conectando com um banco de dados Oracle
 Api em .Net e C#
 - link: https://github.com/pedro2398/Solestride_MVC_EntityFrameWork
 
+Api Java Full MVC
+- link: https://github.com/pedro2398/Solestride_MVC
+
 # arquitetura da solução
 
 ![Arquitetura da Solução](https://github.com/pedro2398/solestrideAPI/assets/103459126/7e7e5df4-ce18-4cb3-8ad2-1d33be3b59ca)
