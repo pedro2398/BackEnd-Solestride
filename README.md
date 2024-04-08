@@ -13,10 +13,10 @@ Samuel Leite Nunes – RM 97566
 Documentacao Do Projeto: [Solestride.apresentacao.pdf](https://github.com/pedro2398/Solestride_MVC_EntityFrameWork/files/14910890/Solestride.apresentacao.pdf)
 
 Api Java utilizando, Spring Boot e conectando com um banco de dados Oracle
-link: https://github.com/pedro2398/solestride_API_JAVA
+- link: https://github.com/pedro2398/solestride_API_JAVA
 
 Api em .Net e C#
-link: https://github.com/pedro2398/Solestride_MVC_EntityFrameWork
+- link: https://github.com/pedro2398/Solestride_MVC_EntityFrameWork
 
 # arquitetura da solução
 
