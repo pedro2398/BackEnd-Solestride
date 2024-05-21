@@ -16,6 +16,7 @@ Api Java utilizando, Spring Boot e conectando com um banco de dados Oracle
 - link: https://github.com/pedro2398/solestride_API_JAVA
 
 Api em .Net e C#
+Para rodar a API em .Net é necessesário baixar e rodar a API em Java+SpringBoot. Pois é a partir desssa API que a aplicação em .Net busca os dados 
 - link: https://github.com/pedro2398/Solestride_MVC_EntityFrameWork
 
 Api Java Full MVC
